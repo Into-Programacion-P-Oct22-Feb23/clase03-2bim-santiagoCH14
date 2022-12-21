@@ -26,7 +26,7 @@ public class Ejemplo01 {
             }
             System.out.println(); // salto de línea
         }
-        
+
         System.out.println("Ingreso de datos al arreglo");
         for (int i = 0; i < arreglo1.length; i++) {
             for (int j = 0; j < arreglo1[i].length; j++) {
@@ -37,7 +37,7 @@ public class Ejemplo01 {
             }
             System.out.println(); // salto de línea
         }
-        
+
         System.out.println("Presentación de valores del arreglo");
         for (int i = 0; i < arreglo1.length; i++) {
             for (int j = 0; j < arreglo1[i].length; j++) {
